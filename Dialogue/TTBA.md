@@ -2,7 +2,7 @@
 
 "Oh I want what any woman wants: power."
 
-"And what, prey tell, does that have to do with me?"
+"And what, pray tell, does that have to do with me?"
 
 "Well, you, my wonderfully wistful wench, are my ticket to owning the most profitable brothel in town!"
 
