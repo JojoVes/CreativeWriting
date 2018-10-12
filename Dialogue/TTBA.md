@@ -42,7 +42,7 @@ Ash - "Yes, Your Grace."
 
 "...In time, you will learn to scheme like the highborn court of snakes we must navigate. You had a conflict in front of a crowd so there would be witnesses to your personal reasoning to starting a brothel, leaving me out of it, and providing some publicity for your new brothel. People are always interested in the new shiny things that appear around them, so people will be on the lookout now that you have announced your up-and-coming brothel--...what was that smirk about?"
 
-"My appologies, Your Grace...it's just...Might I name the brothel--uh--'Up & Cumming'?"
+"My apologies, Your Grace...it's just...Might I name the brothel--uh--'Up & Cumming'?"
 
 "Ooo that is rather catchy, and people love a good chuckle. Quite versatile. Keep that name in mind and we can discuss it later... Do you still wish to hear my reasoning behind your conflict earlier?"
 
