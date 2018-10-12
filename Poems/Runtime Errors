@@ -15,9 +15,21 @@ GetUp(too_early) {
 }
 
 MundaneMorningTasks() {
-  Completed (in_a_rush OR apathetically_dawdling_with_no_motivation_to_get_out_the_door);
+  Completed (
+    in_a_rush 
+      OR
+    apathetically_dawdling_with_no_motivation_to_get_out_the_door
+  );
 }
 
 GoToClass() {
-  Arrive (a_few_minutes_late_and_sweaty_from_the_walk OR not_at_all_because_I_can't_bare_the_thought_of_spending_so_many_eternities_in_boredom_watching_my_life_tick_away);
+  Arrive (
+    a_few_minutes_late_and_sweaty_from_the_walk
+    OR
+    not_at_all[
+      because_I_can't_bare_the_thought[
+        of_spending_so_many_eternities_in_boredom_watching_my_life_tick_away
+      ]
+    ]
+  );
 }
