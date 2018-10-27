@@ -1,6 +1,6 @@
-Ash - "What do you want?"
+"What do you want?"
 
-Brothel Owner - "Oh I want what any woman wants: power."
+"Oh I want what any woman wants: power."
 
 "And what, pray tell, does that have to do with me?"
 
@@ -32,23 +32,19 @@ Brothel Owner - "Oh I want what any woman wants: power."
 
 ***
 
-Queen - "Hello Ash! Did everything go as planned?"
+"Hello Ash! Did everything go as planned?"
 
-Ash - "Yes, Your Grace."
+"Yes, Your Grace."
 
 "She took the bait and gave you reason to start a brothel of your own?"
 
 "Yes, though I confess I'm not quite sure why that conflict had to happen in a crowd. Why couldn't we start a brothel without all that noise?"
 
-"...In time, you will learn to scheme like the highborn court of snakes we must navigate. You had a conflict in front of a crowd so there would be witnesses to your personal reasoning to starting a brothel, leaving me out of it, and providing some publicity for your new brothel. People are always interested in the new shiny things that appear around them, so people will be on the lookout now that you have announced your up-and-coming brothel--...what was that smirk about?"
+"...In time, you will learn to scheme like the highborn court of snakes we must navigate. You now have witnesses to your personal reasoning to starting a brothel, leaving me out of it. People are always interested in the new shiny things that appear around them, so people will be on the lookout now that you have announced your up-and-coming establishment--...what was that smirk about?"
 
 "My apologies, Your Grace...it's just...Might I name the brothel--uh--'Up & Cumming'?"
 
-"Ooo that is rather catchy, and people love a good chuckle. Quite versatile. Keep that name in mind and we can discuss it later... Do you still wish to hear my reasoning behind your conflict earlier?"
-
-"Yes, sorry for interrupting Your Grace."
-
-"Right, so now the stage is set for you to open a brothel and no one will suspect that I put you up to it. People tend to be skeptical of Queens who wish to open brothels."
+"Ooo that is rather catchy, and people do love a good chuckle. Quite versatile. Keep that name in mind and we can discuss it later... Right, so now the stage is set and no one will suspect that I put you up to it. People tend to be skeptical of Queens who wish to open whore houses."
 
 "If I may ask, why do you want to open a brothel?"
 
@@ -56,7 +52,18 @@ Ash - "Yes, Your Grace."
 
 ***
 
-Queen (thinking aloud to no one) "'A playful hobby' indeed...As if searching for the child stolen from my womb is a bloody hobby. I never even got to learn the sex of the poor child. All I get are letters from time to time from God-knows-who, stringing me along on some dream of retrieving my child..."
+Queen (thinking aloud to no one) "'A playful hobby' indeed...As if searching for the child stolen from my womb is a bloody hobby. I never even got to learn the sex of the poor thing. All I get are letters from time to time from God-knows-who, stringing me along on some dream of retrieving my baby..."
+
+***
+Brothel owner speaking with one of her girls.
+
+"Why do you suppose that new queen prefers blonds?"
+
+"Why does Fat Tom prefer curly hair? Why does Lord Pig Nose prefer big men? Why does Lady Sweet Tooth prefer strong, rough women? People have preferences, and when they have money they can buy whoever they want..."
+
+"Sure, but it's like she's obsessed: her serving girls are blond, her hired minstrel is blond, even her stable boy is blond. This goes beyond a simple preference."
+
+"Mayhaps she feels more at home with people who look like her? She is far from her home and family."
 
 ***
 
