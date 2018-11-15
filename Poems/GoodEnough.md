@@ -9,7 +9,7 @@ When I spent five years in a Music degree,
 expected to practice at least three hours a day,  
 and spent at least one hour a week  
 getting one-on-one criticism  
-that focused on how to get better  
+focused on how to get better  
 rather than wasting time  
 on praise for the improvements I made,  
 I can't blame my brain for summarizing that as  
@@ -33,12 +33,9 @@ chemical war in my head.
 
 What the fuck does "good enough" even mean?
 
-People should be constantly striving to better themselves,  
-so when do we become "good enough"?  
-Where is the goal?  
 Maybe the act of choosing  
-to grow by using our faults to guide our improvement,  
-no matter how slow,  
+to grow,  
+by using our faults to guide our improvement,  
 maybe that's  
 good enough.
 
