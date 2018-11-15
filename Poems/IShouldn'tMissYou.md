@@ -41,7 +41,9 @@ for two years of my teenage life.
 Maybe  
 missing you is my way  
 of remembering  
-how you helped me grow.
+how you helped me grow
+to realize
+I am desireable.
 
 Maybe  
 I'm still healing  
