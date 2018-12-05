@@ -1,4 +1,5 @@
 I'm not good enough.  
+
 When I've spent most of my life being taught  
 to be better,  
 I can't blame my brain  
@@ -36,6 +37,6 @@ What the fuck does "good enough" even mean?
 Maybe the act of choosing  
 to grow,  
 by using our faults to guide our improvement,  
-maybe that's  
+maybe that <i>is</i>  
 good enough.
 
